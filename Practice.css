@@ -1,0 +1,27 @@
+.header{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 50px;
+    background-image: url("sunset-panoramic-view-sajek-bangladesh-260nw-1504951820.webp");
+    block-size: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+}
+.blog{
+    background-color:bisque ;
+    margin: 50px;
+    border: 3px solid black;
+    padding: 50px;
+    box-shadow: 10px 10px 10px;
+
+}
+.pot{
+    color:red ;
+    text-decoration: underline;
+
+}
+.spy{
+    color: green;
+}
